@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Software+Developer+I+%40+Exaltride;Former+Software+Engineering+Intern+%40+Dell+Technologies;Full+Stack+Developer;Building+Scalable+Web+Applications;AI+%7C+Product+Engineering+%7C+Modern+Web+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Software+Developer+I+%40+Exaltride;Full+Stack+Developer;Building+Scalable+Web+Applications;AI+%7C+Product+Engineering+%7C+Modern+Web+Technologies" />
 
 <br><br>
 
