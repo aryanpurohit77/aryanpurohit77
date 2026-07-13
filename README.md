@@ -128,57 +128,6 @@ I enjoy transforming complex business problems into intuitive digital experience
 
 ---
 
-## Cloud, DevOps & Tooling
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-
-</p>
-
-| Tool | Purpose |
-|------|---------|
-| Git | Version Control |
-| GitHub | Source Code Management |
-| Vercel | Frontend Deployment |
-| Render | Backend Deployment |
-| VS Code | Development Environment |
-
----
-
-## AI / ML Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-| Technology | Application |
-|------------|-------------|
-| LangChain | LLM Orchestration |
-| ChromaDB | Vector Database |
-| Llama Models | Generative AI |
-| Retrieval-Augmented Generation (RAG) | Intelligent Knowledge Systems |
-| Prompt Engineering | AI Workflow Design |
-
-
-# AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:-------|:-----------:|---------|
-| Retrieval-Augmented Generation (RAG) | ⭐⭐⭐⭐☆ | AI assistants powered by LangChain and ChromaDB |
-| Large Language Models | ⭐⭐⭐⭐☆ | Prompt Engineering, Llama-based applications |
-| Full Stack AI Applications | ⭐⭐⭐⭐☆ | AI integrated into production-ready web platforms |
-| Backend APIs | ⭐⭐⭐⭐⭐ | REST API architecture and scalable integrations |
-| Product Engineering | ⭐⭐⭐⭐⭐ | Building customer-centric software products |
-| Workflow Automation | ⭐⭐⭐⭐⭐ | Enterprise business process automation |
-
-</div>
-
----
 
 # Featured Projects
 
@@ -258,70 +207,117 @@ Completion
 <details>
 <summary>
 
-## 🤖 SEBI Saathi
+---
+---
+# Experience
 
-</summary>
+## 💼 Professional Experience
 
-An AI-powered financial assistant that leverages Retrieval-Augmented Generation (RAG) to provide intelligent responses based on SEBI-related documents.
+### Software Developer I | Exaltride
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Flask • LangChain • ChromaDB |
-| **AI Model** | Llama |
-| **Architecture** | RAG Pipeline |
-| **Performance** | Low-latency semantic retrieval |
-| **Impact** | Simplified access to financial regulations |
+**July 2026 – Present**  
+**Bengaluru, Karnataka, India**
 
-### Highlights
+Building scalable products for India's automotive ecosystem while contributing across frontend engineering, business workflows, and product architecture.
 
-- Built an end-to-end RAG pipeline.
-- Semantic search over regulatory documents.
-- LangChain orchestration.
-- ChromaDB vector storage.
-- Context-aware AI responses.
+#### Key Responsibilities
 
-</details>
+- Developing production-grade applications using **Next.js**, **React**, and **TypeScript**.
+- Building scalable and reusable UI components with **Shadcn UI**.
+- Designing internal business software including inventory, sales, and purchase management systems.
+- Integrating REST APIs across multiple business modules.
+- Optimizing frontend performance and improving application responsiveness.
+- Collaborating closely with product, design, and engineering teams.
+- Contributing to marketplace workflows and customer-facing features.
+
+**Core Technologies**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Git`
 
 ---
 
-<details>
-<summary>
+### Software Engineering Intern | Dell Technologies
 
-## 📊 Predictive Delivery Optimizer
+**May 2025 – July 2025**
 
-</summary>
+Worked within enterprise engineering teams to develop production-ready frontend modules and improve software quality.
 
-A machine learning project focused on predicting delivery delays using historical logistics data and analytical models.
+#### Key Responsibilities
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Machine Learning |
-| **Focus** | Predictive Analytics |
-| **Application** | Logistics Optimization |
-| **Goal** | Improve delivery accuracy |
+- Developed reusable React components.
+- Collaborated with .NET engineering teams.
+- Increased code coverage through testing.
+- Improved maintainability of enterprise applications.
+- Participated in code reviews and agile development workflows.
 
-### Highlights
+**Core Technologies**
 
-- Delivery delay prediction.
-- Data preprocessing pipelines.
-- Model evaluation and optimization.
-- Business-focused analytical insights.
+`React` `.NET` `JavaScript` `Git`
 
-</details>
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpurohit77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpurohit77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpurohit77&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryanpurohit77&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Development Philosophy
+
+> *"Good software is not just about writing code—it's about solving real problems with scalable, maintainable, and thoughtful engineering."*
+
+---
+
+# Engineering Principles
+
+| Principle | Description |
+|-----------|-------------|
+| Scalability | Build systems that grow with users. |
+| Simplicity | Prefer clean and maintainable solutions. |
+| Performance | Optimize where it matters most. |
+| Collaboration | Great software is built by great teams. |
+| Learning | Continuously improve through experimentation. |
 
 ---
 
 <div align="center">
 
-### Featured Technologies
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,mysql,python,tailwind,git,github" />
+## ⚡ Current Tech Focus
 
 </div>
 
----
----
+- Full Stack Product Development
+- AI-Powered Applications
+- Enterprise Workflow Automation
+- Modern React Ecosystem
+- Scalable Backend Systems
+- High Performance UI Development
 
+---
 <div align="center">
 
 ### *"Building scalable software with clean architecture, thoughtful design, and real-world impact."*
