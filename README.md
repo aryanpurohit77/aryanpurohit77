@@ -318,6 +318,94 @@ Worked within enterprise engineering teams to develop production-ready frontend 
 - High Performance UI Development
 
 ---
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpurohit77&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+> **Enable after configuring GitHub Actions.**
+
+<!-- Replace this with your generated snake.svg after setting up the GitHub Action -->
+
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/aryanpurohit77/aryanpurohit77/output/github-contribution-grid-snake-dark.svg" />
+</p>
+-->
+
+---
+
+# Current Focus
+
+```yaml
+Currently:
+
+  Role:
+    Software Developer I @ Exaltride
+
+  Learning:
+    - System Design
+    - Scalable Backend Architecture
+    - AI Engineering
+    - Cloud Technologies
+
+  Building:
+    - Automotive Marketplace Platform
+    - Enterprise Workflow Software
+    - Inventory Management System
+
+  Exploring:
+    - LLM Applications
+    - Agentic AI
+    - Distributed Systems
+    - Performance Optimization
+
+  Open To:
+    - Open Source Collaboration
+    - Full Stack Engineering
+    - AI Projects
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:aryanpurohit2904@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-purohit-714652255/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryanpurohit77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+*"Code with purpose. Build with impact. Keep learning."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=120&section=footer"/>
+
+</div>
 <div align="center">
 
 ### *"Building scalable software with clean architecture, thoughtful design, and real-world impact."*
