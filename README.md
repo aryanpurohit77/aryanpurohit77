@@ -202,18 +202,11 @@ Completion
 
 </details>
 
----
-
-<details>
-<summary>
-
----
----
 # Experience
 
 ## 💼 Professional Experience
 
-### Software Developer I | Exaltride
+### Software Developer 1 | Exaltride
 
 **July 2026 – Present**  
 **Bengaluru, Karnataka, India**
