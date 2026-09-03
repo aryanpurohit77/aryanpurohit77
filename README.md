@@ -300,11 +300,9 @@ Worked within enterprise engineering teams to develop production-ready frontend 
 
 <!-- Replace this with your generated snake.svg after setting up the GitHub Action -->
 
-<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/aryanpurohit77/aryanpurohit77/output/github-contribution-grid-snake-dark.svg" />
 </p>
--->
 
 ---
 
