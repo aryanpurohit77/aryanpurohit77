@@ -79,7 +79,6 @@ I enjoy transforming complex business problems into intuitive digital experience
 ---
 
 # Tech Stack
-
 ## Languages
 
 <p align="left">
@@ -252,11 +251,6 @@ Worked within enterprise engineering teams to develop production-ready frontend 
 # GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpurohit77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpurohit77&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
@@ -264,16 +258,6 @@ Worked within enterprise engineering teams to develop production-ready frontend 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpurohit77&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpurohit77&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -309,17 +293,6 @@ Worked within enterprise engineering teams to develop production-ready frontend 
 - Modern React Ecosystem
 - Scalable Backend Systems
 - High Performance UI Development
-
----
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpurohit77&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # Contribution Snake
 
@@ -393,8 +366,6 @@ Currently:
 ## Thanks for visiting!
 
 *"Code with purpose. Build with impact. Keep learning."*
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=120&section=footer"/>
 
